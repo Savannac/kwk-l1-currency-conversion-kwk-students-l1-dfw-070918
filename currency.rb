@@ -18,7 +18,7 @@ def jpy_to_usd(money)
 end 
 
 def usd_to_aud(money)
-  newmoney = money * 0.85 
+  newmoney = money * 1.34 
   money
 end 
 def aud_to_usd(money)
