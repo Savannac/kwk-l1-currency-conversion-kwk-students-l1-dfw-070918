@@ -13,7 +13,7 @@ def usd_to_jpy(money)
   money
 end 
 def jpy_to_usd(money)
-  newmoney = money * 0.0
+  newmoney = money * 0.0090
   money
 end 
 
