@@ -9,11 +9,11 @@ def eur_to_usd(money)
 end 
 
 def usd_to_jpy(money)
-  newmoney = money * 0.85 
+  newmoney = money * 110.96 
   money
 end 
 def jpy_to_usd(money)
-  newmoney = money * 1.17 
+  newmoney = money * 0.
   money
 end 
 
