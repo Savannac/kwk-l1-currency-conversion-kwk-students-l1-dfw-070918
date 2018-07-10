@@ -22,7 +22,7 @@ def usd_to_aud(money)
   money
 end 
 def aud_to_usd(money)
-  newmoney = money * 1.17 
+  newmoney = money * 0.74
   money
 end 
 
