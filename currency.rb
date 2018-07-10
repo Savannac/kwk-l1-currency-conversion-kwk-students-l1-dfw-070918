@@ -27,7 +27,7 @@ def aud_to_usd(money)
 end 
 
 def usd_to_gbp(money)
-  newmoney = money * 0.85 
+  newmoney = money * 0.75 
   money
 end 
 def gbp_to_usd(money)
