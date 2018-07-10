@@ -31,6 +31,6 @@ def usd_to_gbp(money)
   money
 end 
 def gbp_to_usd(money)
-  newmoney = money * 1.17 
+  newmoney = money * 1.33
   money
 end 
